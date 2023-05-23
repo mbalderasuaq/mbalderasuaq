@@ -4,8 +4,8 @@
 
 ```
 class mike() {
-	pronouns: "he"
-	code: {Java}
+	pronouns: "he, him"
+	code: {Java, Python}
 	systems: {Windows, macOS, Linux, iOS, Android}
 	
 	challange: "Aprender nuevas cosas"
