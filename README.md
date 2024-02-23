@@ -1,4 +1,4 @@
-<h1> Hola 👋, Soy Mike Balderas</h1>
+<h1> Hola, soy Mike Balderas 👋</h1>
 <h3> Estudiante de Ingeniería de Software</h3>
 
 - 🌱 Actualmente, estoy aprendiendo **React, Angular, Django** 
