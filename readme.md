@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente, estoy aprendiendo **React, Angular, Django** 
 
-- 👨‍💻 Podrás encontrar todos mis proyectos aquí [mikebalderasanchez.me](https://mikebalderasanchez.me)
+- 👨‍💻 Podrás encontrar todos mis proyectos aquí [mike.interscode.com](https://mike.interscode.com)
 
 - 💬 Puedes preguntarme sobre **JavaScript, Python**
 
